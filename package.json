@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["devops", "cicd", "docker", "aws", "github-actions"],
+  "author": "HammadGhani23",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
